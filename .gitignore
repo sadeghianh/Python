@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+iris.csv
+iris_chart.png
+iris_processed.csv
+iris_statistics.json
+iris_statistics.csv
